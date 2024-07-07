@@ -19,7 +19,7 @@ import com.nimbusds.jose.util.Base64;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
-import vn.hoidanit.jobhunter.domain.dto.ResLoginDTO;
+import vn.hoidanit.jobhunter.domain.dto.response.ResLoginDTO;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
